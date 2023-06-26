@@ -19,7 +19,7 @@
 
 ![Arthur Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=devarthurguilherme&show_icons=true&theme=tokyonight)
 
-I study web development, technologies like: Html, Css,Javascript, Sass, Typescript, React. I believe that “less is more” because a foundation very solid provides professional success. My focus is to be Front End.
+I study web development, technologies like: Html, Css,Javascript, Sass, Typescript, React. I believe that “less is more” because a foundation very solid provides professional success. My focus is to be Frontend Developer.
 
 
 <a href=mailto:“arthurguilhermecontato@gmail.com”><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
