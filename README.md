@@ -18,7 +18,7 @@
 </div>
 <br/>
 
-![Arthur Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=devarthurguilherme&show_icons=true&theme=tokyonight)
+
 
 I study web development, technologies like: Html, Css,Javascript, Sass, Typescript, React. I believe that “less is more” because a foundation very solid provides professional success. My focus is to be Frontend Developer.
 
