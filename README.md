@@ -14,14 +14,13 @@
     <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
     <img align="center" alt="sass" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" alt="sass" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)>
-    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 <br/>
 
 
 
-I study web development, technologies like: Html, Css,Javascript, Sass, Typescript, React. I believe that “less is more” because a foundation very solid provides professional success. My focus is to be Frontend Developer.
+I study web development, technologies like: Html, Css,Javascript, Sass, Bootstrap, Tailwind, Typescript, React. I believe that “less is more” because a foundation very solid provides professional success. My focus is to be Frontend Developer.
 
 
 <a href=mailto:“arthurguilhermecontato@gmail.com”><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
