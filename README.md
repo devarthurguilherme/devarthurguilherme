@@ -5,7 +5,6 @@ I'm passionate about learning and I'm specializing in Advanced Excel, SQL, Pytho
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurguilherme92/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurguilhermecontato@gmail.com)
 
 ## Technologies that I know
-
 <div style="display: inline-block;"><br />
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="sql" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -24,7 +23,7 @@ I'm passionate about learning and I'm specializing in Advanced Excel, SQL, Pytho
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
+<br/>
 
 ## Life Goals
-
 Seeking to be a dedicated and helpful professional, committed to constantly improving my skills. I work well in teams, focused on achieving goals, and always striving to evolve. I am always willing to assist my colleagues when needed.
