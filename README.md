@@ -19,7 +19,7 @@
 
 
 
-I study web development, technologies like: Html, Css,Javascript, Sass, Bootstrap, Tailwind, Typescript, React. I believe that “less is more” because a foundation very solid provides professional success. My focus is to be Frontend Developer.
+👋 Hi! I'm Arthur Guilherme de Souza Silva, a Data Analyst student at Cesae Porto. I'm passionate about learning and I'm specializing in Advanced Excel, SQL, Python, R, and Power BI. I also have knowledge in HTML, CSS, JavaScript, Tailwind, Bootstrap, React, and SASS.
 
 
 <a href=mailto:“arthurguilhermecontato@gmail.com”><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
