@@ -13,6 +13,11 @@ Passionate about learning and sharing knowledge, with strong skills in data anal
     <img align="center" alt="excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </div>
 <br/>
+<div style="display: inline-block;"><br />
+    <img align="center" alt="uipath" src="https://img.shields.io/badge/UiPath-7A4AF7?style=for-the-badge&logo=uipath&logoColor=white">
+    <img align="center" alt="botcity" src="https://img.shields.io/badge/BotCity-FF6F00?style=for-the-badge&logo=botcity&logoColor=white">
+</div>
+<br/>
 <div style="display: inline-block;">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
