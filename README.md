@@ -1,6 +1,6 @@
-### 👋 Hey! I am Arthur Guilherme, Data Analyst Student 📊🎓🇧🇷
+### 👋 Hey! I am Arthur Guilherme, Data Analyst 📊🎓🇧🇷
 
-I'm passionate about learning and I'm specializing in Advanced Excel, SQL, Python, R, and Power BI. I also have knowledge in HTML, CSS, JavaScript, Tailwind, Bootstrap, React, and SASS.
+Passionate about learning and sharing knowledge, with strong skills in data analysis using Python, SQL, and Power BI. Currently expanding my expertise into RPA to enhance automation and efficiency. Always seeking new challenges and innovative solutions! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurguilherme92/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurguilhermecontato@gmail.com)
 
