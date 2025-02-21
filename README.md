@@ -6,9 +6,6 @@ Passionate about learning and sharing knowledge, with strong skills in data anal
 
 ## Technologies that I know
 <div style="display: inline-block;"><br />
-    <img align="center" alt="langchain" src="https://linkdoseugif.gif">
-</div>
-<div style="display: inline-block;"><br />
     <img align="center" alt="uipath" src="https://img.shields.io/badge/UiPath-7A4AF7?style=for-the-badge&logo=uipath&logoColor=white">
     <img align="center" alt="botcity" src="https://img.shields.io/badge/BotCity-FF6F00?style=for-the-badge&logo=botcity&logoColor=white">
 </div>
