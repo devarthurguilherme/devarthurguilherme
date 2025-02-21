@@ -1,4 +1,4 @@
-### 👋 Hey! I am Arthur Guilherme, Data Analyst 📊🎓🇧🇷
+### 👋 Hey! I am Arthur Guilherme, Data Analyst 📊🎓
 
 Passionate about learning and sharing knowledge, with strong skills in data analysis using Python, SQL, and Power BI. Currently expanding my expertise into RPA to enhance automation and efficiency. Always seeking new challenges and innovative solutions! 🚀
 
