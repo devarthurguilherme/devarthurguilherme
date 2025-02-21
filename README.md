@@ -10,15 +10,16 @@ Passionate about learning and sharing knowledge, with strong skills in data anal
     <img align="center" alt="botcity" src="https://img.shields.io/badge/BotCity-FF6F00?style=for-the-badge&logo=botcity&logoColor=white">
 </div>
 <div style="display: inline-block;"><br />
+    <img align="center" alt="langchain" src="https://img.shields.io/badge/LangChain-0097F7?style=for-the-badge&logo=langchain&logoColor=white">
+</div>
+<div style="display: inline-block;"><br />
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="sql" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="powerbi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
     <img align="center" alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
     <img align="center" alt="excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </div>
-<br/>
-<br/>
-<div style="display: inline-block;">
+<div style="display: inline-block;"><br />
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
